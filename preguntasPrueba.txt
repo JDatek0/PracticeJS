@@ -1,0 +1,55 @@
+
+--------Responde las siguientes preguntas en la sección de comentarios-------------
+
+¿Qué es una variable y para qué sirve?
+	R= es un espacio en memoria que permite guardar datos. estos nos pueden servir para luego operar con ellos.
+
+¿Cuál es la diferencia entre declarar e inicializar una variable?
+	R= al momento de declarar una variable no se escribe el valor que va a tomar, unicamnete se crea el espacio en memoria con el nombre que le hayamos dado, en cambio al momento de inicializar se especifica el valor de la variable.
+
+¿Cuál es la diferencia entre sumar números y concatenar strings?
+	R= La diferencia en si es el tipo de dato, ya que para concatenar datos se utiliza el tipo de dato string que son cadenas de texto, mientras que para sumar 2 datos se utilzia el tipo number, un ejemplo de esto sería:
+2 + 2 = 4 // Acá esta sumando
+"2" + "2" = "22" Acá esta concatenando los datos.
+
+¿Cuál operador me permite sumar o concatenar?
+	R= el operador de suma osea el '+'.
+
+
+----------Determina el nombre y tipo de dato para almacenar en variables la siguiente información-----------
+
+
+    Nombre = String
+    Apellido = String
+    Nombre de usuario en Platzi = String
+    Edad = number
+    Correo electrónico = string
+    Mayor de edad = booleano
+    Dinero ahorrado = number
+    Deudas = number
+
+----------- Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios---------------------
+	R= esta en el archivo pruebasJs en esta carpeta
+
+
+-----------Calcula e imprime las siguientes variables a partir de las variables del ejemplo anterior------
+
+    Nombre completo (nombre y apellido)
+    Dinero real (dinero ahorrado menos deudas)
+	R= Esta en el archivo prueba.js en esta misma carpeta.
+
+
+-----------Responde las siguientes preguntas en la sección de comentarios:------------------
+
+¿Qué es una función?
+    R= una funcion es un espacio de codigo donde podemos dejar implementada una serie de acciones o algoritmo, que nos permitirapoder hacer uso de ella en cualquier momento solo invocandola y pasandole los parametros que requiera para funcionar
+
+¿Cuándo me sirve usar una función en mi código?
+    R= es recomendable usar una función cuando se pueda reutilizar ese pedazo de codigo en varias secciones, un ejemplo seria realizar una funcion que permita recuperar una serie de datos, y ordenarlos, para no volver a escribir el algoritmo que lo hace para reutilizarlo en otro lado, es tan facil como invocar otra vez a la funcion.
+
+¿Cuál es la diferencia entre parámetros y argumentos de una función?
+    R= los parametros de una funcion es los datos que necesita para poder funcionar correctamente. mientras que los argumentos son las variables locales de las mismas funciones.
+
+--------Convierte el siguiente código en una función, pero, cambiando cuando sea necesario las variables constantes por parámetros y argumentos en una función--------
+    R= Esta en el archivo prueba.js
+    
