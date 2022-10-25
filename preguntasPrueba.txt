@@ -52,4 +52,19 @@
 
 --------Convierte el siguiente código en una función, pero, cambiando cuando sea necesario las variables constantes por parámetros y argumentos en una función--------
     R= Esta en el archivo prueba.js
-    
+
+
+
+---------------------------------------Responde las siguientes preguntas en la sección de comentarios:---------------------------------------
+
+¿Qué es un condicional?
+    R= es un pedazo de codigo que permite validar si una sentencia es correcta, si es asi ejecutar unas determinadas lineas de codigo, en dado caso que no sea verdad ejecutar otras lineas o en su defecto no hacer nada
+
+¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+    R= existen 2 el if y el switch, mientras que el if se puede traducir como si pasa esto entonces que ocurra esto, y si es falso que ocurra esto otro, el switch te permite validar casos especificos, ejemplo si el numero es 1 que haga eso, si es 2 que haga esto otro y asi sucesivamente el numero de casos que se necesite.
+
+¿Puedo combinar funciones y condicionales?
+    R= Claro que se puede, asi permite reutilziar las condicionales y no tener que escribirlas nuevamente.
+
+Replica el comportamiento del siguiente código que usa la sentencia switch utilizando if, else y else if:
+    R= la respuesta esta 
