@@ -67,4 +67,53 @@
     R= Claro que se puede, asi permite reutilziar las condicionales y no tener que escribirlas nuevamente.
 
 Replica el comportamiento del siguiente código que usa la sentencia switch utilizando if, else y else if:
-    R= la respuesta esta 
+    R= la respuesta esta en el archivo pureba.js de esta misma carpeta
+
+Replica el comportamiento de tu condicional anterior con if, else y else if, pero ahora solo con if (sin else ni else if)
+    R=la respuesta esta en el archivo pureba.js de esta misma carpeta
+
+---------------------------------------Responde las siguientes preguntas en la sección de comentarios:---------------------------------------
+¿Qué es un ciclo?
+    R= es un pedazo de codigo que permite repetir las mismas lineas de codigo una determinada o aveces no determinada cantidad de veces
+
+¿Qué tipos de ciclos existen en JavaScript?
+    R= tenemos el ciclo for y el while
+
+
+¿Qué es un ciclo infinito y por qué es un problema?
+    R=Un ciclo infinito es aquel que no termina, y es un problema porque al no acabar se seguiran realizando operaciones hasta el infinito, ye sto satura el procesador y puede dejar inutilizable la maquina en el peor d elos casos
+
+¿Puedo mezclar ciclos y condicionales?
+    R= claro que si se puede, utilizando la sintaxis correcta, es posible que un ciclo este comprobando continuamente si una condicion se cumple.
+
+ Replica el comportamiento de los siguientes ciclos for utilizando ciclos while
+    R=la repuesta esta en el archivo prueba.js
+
+Escribe un código en JavaScript que le pregunte a los usuarios cuánto es 2 + 2. Si responden bien, mostramos un mensaje de felicitaciones, pero si responden mal, volvemos a empezar.Pista: puedes usar la función prompt de JavaScript.
+    R= La respuesta esta en el archivo prueba.js
+
+---------------------------------------Responde las siguientes preguntas en la sección de comentarios:---------------------------------------
+
+¿Qué es un array?
+    R= es un espacio en memoria que puede guardar multiples valores, dependiendo del lugar que ocupe en el array
+
+¿Qué es un objeto?
+    R= es un espacio en memoria que guarda información, y esta puede contener, tanto parametros, como metodos que puede realizar el objeto
+
+¿Cuándo es mejor usar objetos o arrays?
+    R= cuando necesites que algo realize una actividad pues se utilizan objetos, sino es mejor solo usar un array, aunq de porsi en js un array es una variable tipo objetos, tambien se puede emplear un objeto cuando necesitamos representar algo de la vida real
+
+¿Puedo mezclar arrays con objetos o incluso objetos con arrays?
+    R= si, un objeto puede tener como parametro un array dentro suyo, o en un array se pueden guardar multiples objetos
+
+Crea una función que pueda recibir cualquier array como parámetro e imprima su primer elemento.
+    R=la respuesta esta en el archivo pueba.js
+
+Crea una función que pueda recibir cualquier array como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el array completo).
+    R= La respuesta esta en el archivo prueba.js
+
+Crea una función que pueda recibir cualquier objeto como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el objeto completo).
+    R= La respuseta esta en el archivo prueba.js
+
+
+    
