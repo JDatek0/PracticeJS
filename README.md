@@ -1,2 +1,2 @@
 # PracticeJS
-my first works whit js
+my first work with js
